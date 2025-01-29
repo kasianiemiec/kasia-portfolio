@@ -44,7 +44,7 @@ h1 {
   padding: 160px 60px;
 }
 .content-container h1 {
-  font-size: 64px;
+  font-size: 60px;
   line-height: 80px;
 }
 .content-container h2 {
@@ -56,6 +56,15 @@ h1 {
   width: 500px;
   display: block;
   margin: 0 auto;
+}
+.content-container h3 {
+  font-size: 24px;
+  font-family: var(--default-font-family);
+  margin: 20px 0 0;
+}
+.content-container p {
+  opacity: 70%;
+  font-size: 14px;
 }
 
 .hero h2 {
